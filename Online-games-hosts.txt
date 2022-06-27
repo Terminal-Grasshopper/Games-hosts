@@ -1,23 +1,25 @@
 # Title: Games-hosts.txt
 
-0.0.0.0 epicgames.com
-0.0.0.0 riotgames.com
-0.0.0.0 riotcdn.net
-0.0.0.0 riotcdn.com
-0.0.0.0 playvalorant.com
-0.0.0.0 pvp.net
-0.0.0.0 lolstatic.com
-0.0.0.0 leagueoflegends.com
-0.0.0.0 dradis-prod.rdatasrv.net
-0.0.0.0 a17.d.akamai.net
-0.0.0.0 leagueoflegends.com.cdn.cloudflare.net
-0.0.0.0 riotgames.com.c.footprint.net
-0.0.0.0 riotgames.ssl.zendesk.com
-0.0.0.0 leagueesports.com
-0.0.0.0 lol-esports.com
-0.0.0.0 rgbpub.io
-0.0.0.0 unrealengine.com
-0.0.0.0 callofduty.com
-0.0.0.0 activision.com
-0.0.0.0 rbxcdn.com
-0.0.0.0 roblox.com
+epicgames.com
+riotgames.com
+riotcdn.net
+riotcdn.com
+playvalorant.com
+pvp.net
+lolstatic.com
+leagueoflegends.com
+dradis-prod.rdatasrv.net
+a17.d.akamai.net
+leagueoflegends.com.cdn.cloudflare.net
+riotgames.com.c.footprint.net
+riotgames.ssl.zendesk.com
+leagueesports.com
+lol-esports.com
+rgbpub.io
+unrealengine.com
+callofduty.com
+activision.com
+rbxcdn.com
+roblox.com
+vivox.com
+unity.com
