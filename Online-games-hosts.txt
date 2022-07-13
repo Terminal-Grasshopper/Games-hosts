@@ -5,6 +5,11 @@ riotgames.com
 riotcdn.net
 riotcdn.com
 playvalorant.com
+valorant.secure.dyn.riotcdn.net
+glz-eu-1.eu.a.pvp.net
+pd.eu.a.pvp.net
+data.riotgames.com
+valxp0euc1-mim.vivox.com
 pvp.net
 lolstatic.com
 leagueoflegends.com
@@ -23,3 +28,4 @@ rbxcdn.com
 roblox.com
 vivox.com
 unity.com
+
